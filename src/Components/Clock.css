@@ -39,10 +39,10 @@ button:hover {
 }
 
 .start {
-    background-color:#00C851;
+    background-color:#01dc59bb;
     color: white;
 }
 
 .start:hover {
-    
+    background-color: #009e3e;
 }
