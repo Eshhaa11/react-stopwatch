@@ -26,5 +26,9 @@ function Clock () {
         setTime(0);
     };
 
+    const formatTime = () => {
+        
+    }
+
 }
 
