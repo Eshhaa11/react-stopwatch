@@ -38,6 +38,7 @@ function Clock () {
             <h1 className="time-disp">{formatTime()}</h1>
             <div className="button">
                 <button  onClick={startTimer} className="start">START</button>
+                <button  onClick={stopTimer} className="stop">STOP</button>
             </div>
         </div>
     )
