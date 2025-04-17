@@ -8,7 +8,7 @@ function Clock () {
 
     const startTimer = () => {
         if (!timerOn) {
-            
+            setTimerOn(true)
         }
     }
 
