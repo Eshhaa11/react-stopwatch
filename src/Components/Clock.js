@@ -7,7 +7,9 @@ function Clock () {
     const intervalRef = useRef(null);
 
     const startTimer = () => {
-        
+        if (!timerOn) {
+            
+        }
     }
 
 }
