@@ -6,4 +6,9 @@ function Clock () {
     const [timerOn , setTimerOn] = useState(false);
     const intervalRef = useRef(null);
 
+    const startTimer = () => {
+        
+    }
+
 }
+
