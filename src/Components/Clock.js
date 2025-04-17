@@ -10,10 +10,12 @@ function Clock () {
         if (!timerOn) {
             setTimerOn(true)
             intervalRef.current = setInterval(() => {
-                
-            })
+                setTime((prevTime) => prevTime + 1);
+            }, 1000);
         }
-    }
+    };
+
+    
 
 }
 
