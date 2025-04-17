@@ -35,7 +35,7 @@ function Clock () {
 
     return (
         <div className="stopwatch-cont">
-            
+            <h1 className="time-disp">{formatTime()}</h1>
         </div>
     )
 
