@@ -17,7 +17,8 @@ function Clock () {
 
     const stopTimer = () => {
         clearInterval(intervalRef.current);
-    }
+        setTimerOn(false);
+    };
 
 }
 
