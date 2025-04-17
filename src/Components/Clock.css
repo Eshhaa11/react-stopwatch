@@ -8,4 +8,5 @@ body {
 
 .stopwatch-cont {
     display: flex;
+    flex-direction: column;
 }
