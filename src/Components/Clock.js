@@ -31,8 +31,13 @@ function Clock () {
         const minutes = Math.floor(time / 60) % 60;
         const hours = Math.floor(time / 3600);
         return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+    };
 
-    }
+    return (
+        <div className="stopwatch-cont">
+            
+        </div>
+    )
 
 }
 
