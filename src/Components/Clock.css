@@ -5,3 +5,7 @@ body {
     font-family: 'Orbitron';
     color: #ffffff;
 }
+
+.stopwatch-cont {
+    display: flex;
+}
