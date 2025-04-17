@@ -20,5 +20,11 @@ function Clock () {
         setTimerOn(false);
     };
 
+    const resetTimer = () => {
+        clearInterval(intervalRef.current);
+        setTimerOn(false);
+        setTime(0);
+    };
+
 }
 
