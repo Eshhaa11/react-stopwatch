@@ -42,7 +42,8 @@ function Clock () {
                 <button  onClick={resetTimer} className="reset">RESET</button>
             </div>
         </div>
-    )
+    );
+};
 
-}
+export default Clock;
 
