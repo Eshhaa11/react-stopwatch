@@ -1,3 +1,24 @@
+# ⏱️ Stopwatch
+
+A clean and responsive **React** stopwatch app that lets you start, stop, and reset the timer with ease.
+
+---
+
+## 📌 Features
+- ✅ **Start/Stop/Reset**: Control the stopwatch with intuitive buttons.
+- ✅ **Time Formatting**: Displays time in `HH:MM:SS` format.
+- ✅ **Responsive Design**: Simple, centered layout for all devices.
+- ✅ **Separate CSS File**: Easy to tweak styles in `Clock.css`.
+- ✅ **Beginner Friendly**: Uses `useState` and `useRef` for state and timer control.
+
+---
+
+## 🛠️ Technologies Used
+- ⚛️ **React** (`useState`, `useRef` for time tracking)
+- 🎨 **CSS** (`Clock.css` for layout and button styling)
+- 📄 **HTML / JSX** (structured inside the `Clock.js` component)
+
+---
 
 
 ## 🚀 Live Demo
