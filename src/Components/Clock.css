@@ -22,4 +22,5 @@ body {
 
 .button {
     display: flex;
+    gap: 24px;
 }
