@@ -39,7 +39,7 @@ function Clock () {
             <div className="button">
                 <button  onClick={startTimer} className="start">START</button>
                 <button  onClick={stopTimer} className="stop">STOP</button>
-                <button  onClick={resetTimer} className="start">START</button>
+                <button  onClick={resetTimer} className="reset">RESET</button>
             </div>
         </div>
     )
