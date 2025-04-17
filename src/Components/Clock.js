@@ -27,7 +27,8 @@ function Clock () {
     };
 
     const formatTime = () => {
-        
+        const seconds = time % 60;
+
     }
 
 }
