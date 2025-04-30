@@ -1,3 +1,5 @@
+![Preview](./src/assets/stop.jpg)
+
 # ⏱️ Stopwatch
 
 A clean and responsive **React** stopwatch app that lets you start, stop, and reset the timer with ease.
